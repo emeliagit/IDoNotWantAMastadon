@@ -9,3 +9,8 @@ Link to the original tweet is as follows: https://twitter.com/deathbybadger/stat
 ==========================================================================================================================================================
 
 Mastadon ascii art is from @halcy@icosahedron.website over on Mastadon (the social media platform, not this game). Link to original is as follows: https://mastodon.social/@Gargron/100186992119777942
+
+==========================================================================================================================================================
+
+INSTALLATION:
+To install this, all you need to do is compile the main.cpp file with whatever C++ compiler you like, then run the output. Personally, I enjoy using Clang, but you can use whatever you like. I will also upload compiled binaries for Unix-like systems in the releases page, which you can run by opening a terminal in the directory that contains the binary file (.out is the file extension) and running "./IDoNotWantAMastadon.out".
