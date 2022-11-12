@@ -1,0 +1,9 @@
+Hello, there! This is a quick disclaimer for this project, I did not come up with the idea. I saw a funny tweet in which the image used as reference was posted. I found it quite humorous, and as such, decided to program it in C++. I did this because I like C++, and I enjoy programming.
+
+All credit goes to @deathbybadger on https://twitter.com.
+
+Link to original tweet: https://twitter.com/deathbybadger/status/1591115086453952512?s=20&t=tfOf1kZb8gFgYLaqfPzbyQ
+
+===========================================================================================================================================
+
+Mastadon ascii art is from @halcy@icosahedron.website over on Mastadon (the social media platform, not this game). Link to original is as follows: https://mastodon.social/@Gargron/100186992119777942
