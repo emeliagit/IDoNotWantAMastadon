@@ -5,3 +5,7 @@ I found a pretty cool thing on Twitter, where someone made a neat game with a fu
 For now, I'm not quite certain as to how to make the main functions repeat until you reach 10 on each stat, as every time I try to put it in a separate function, I get an overwhelming number of errors that I'm too anxious to debug. I could technically repeat it like 30 times, but that would be incredibly innefficient, which is less than ideal. Please, do feel free to help out and contribute code, I'd love to learn some ways to do this better. Anyway, for the time being, it's completely functional, but you'll have to keep track of your scores (which it tells you in the end of each round how many you've accumulated for that round) separately, but other than that, it works pretty much perfectly (but do expect a bug or two, I get like 15 errors when compiling, though they don't seem to be a big issue, as it still compiles anyway.
 
 Link to the original tweet is as follows: https://twitter.com/deathbybadger/status/1591115086453952512?s=20&t=QVdfaZS5YI32PFEjR3ZfrA
+
+==========================================================================================================================================================
+
+Mastadon ascii art is from @halcy@icosahedron.website over on Mastadon (the social media platform, not this game). Link to original is as follows: https://mastodon.social/@Gargron/100186992119777942
